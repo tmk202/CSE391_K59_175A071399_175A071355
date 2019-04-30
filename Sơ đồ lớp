@@ -4,59 +4,56 @@
 	<title> Sơ đồ lớp </title>
 </head>
 	<body>
-		 <div id="tieu de" align="center" style="font-size: 50" > Sơ đồ lớp </div> 
-		<table align="right" border="1">
+		 <div id="tieu de" align="center" style="font-size: 50" > Sơ đồ lớp </div>
+		 
+		 <table align="right" border="2">
 		 <tr>
 		 <th> Kiều Tuẫn Dũng </th>
 		 </tr>
+
 		</table>
+		
 		<table align="center" border="1" cellspacing="10">
-			
+
 		<tr>
 		<th colspan="2"> Dãy 1 </th>
 		<th colspan="2"> Dãy 2 </th>
 		<th colspan="2"> Dãy 3 </th>
 		<th colspan="2"> Dãy 4 </th>
 		</tr>
-		<td title="175A071399"> Nguyễn Ngọc Tú </td>
-		<td title="175A071399"> Nguyễn Ngọc Tú </td>
-		<td title="175A071399">Nguyễn Ngọc Tú </td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
+		    <td align="center"> 175A071355 </td>
+		    <td align="center"> 175A071356 </td>
+		    <td align="center"> 175A071357 </td>
+		    <td align="center"> 175A071358 </td>
+		    <td align="center"> 175A071359 </td>
+		    <td align="center"> 175A071360 </td>
+		    <td align="center"> 175A071361 </td>
+		    <td align="center"> 175A071362 </td>
 
 		<tr>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
-		<td title="175A071399">Nguyễn Ngọc Tú</td>
+		    <td align="center"> 175A071363 </td>
+		    <td align="center"> 175A071364 </td>
+		    <td align="center"> 175A071365 </td>
+		    <td align="center"> 175A071366 </td>
+		    <td align="center"> 175A071367 </td>
+		    <td align="center"> 175A071368 </td>
+		    <td align="center"> 175A071369 </td>
+		    <td align="center"> 175A071370 </td>
+        </tr>
 
-		</tr>
 		<tr>
-			<td title="175A071399">Nguyễn Ngọc Tú</td>
-			<td title="175A071399">Nguyễn Ngọc Tú</td>
-			<td title="175A071399">Nguyễn Ngọc Tú</td>
-			<td title="175A071399">Nguyễn Ngọc Tú</td>
-			<td title="175A071399">Nguyễn Ngọc Tú</td>
-			<td title="175A071399">Nguyễn Ngọc Tú</td>
-			<td title="175A071399">Nguyễn Ngọc Tú</td>
-			<td title="175A071399">Nguyễn Ngọc Tú</td>
+			<td align="center"> 175A071371 </td>
+			<td align="center"> 175A071372 </td>
+			<td align="center"> 175A071373 </td>
+			<td align="center"> 175A071374 </td>
+			<td align="center"> 175A071375 </td>
+			<td align="center"> 175A071376 </td>
+			<td align="center"> 175A071377 </td>
+			<td align="center"> 175A071399 </td>
+        </tr>
 
-		</tr>
-		
-		
-		
-		
-			
+         </table>
 
-		
-		</table>
 
 	</body>
 </html>
